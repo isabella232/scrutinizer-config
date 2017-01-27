@@ -50,7 +50,7 @@ checks:
         no_short_variable_names:
             minimum: '3'
         no_short_method_names:
-            minimum: '4'
+            minimum: '3'
         no_goto: true
         newline_at_end_of_file: true
         naming_conventions:
